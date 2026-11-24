@@ -110,3 +110,9 @@ npm start
 
 ##Tip
 **Some Features are in developement**
+
+👤 Author
+Shreya S S
+IT engineer
+
+📌 GitHub: (https://github.com/Shreya2244)
